@@ -2,4 +2,15 @@
     <string name="app_name">E Commerce Layout Assignment</string>
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recommend">Recommend</string>
+    <string name="friedchicken">ไก่ทอด</string>
+    <string name="teriyakiburger">เบอร์เกอร์เทอริยากิ</string>
+    <string name="nugget">นัคเก็ต</string>
+    <string name="home">Home</string>
+    <string name="product_list">Product List</string>
+    <string name="basket">Basket</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
 </resources>
